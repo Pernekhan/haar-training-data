@@ -1,0 +1,1 @@
+C:\opencv\opencv\build\x64\vc12\bin\opencv_createsamples.exe -info info.txt -vec samples.vec -num 287
